@@ -1,0 +1,73 @@
+2025-07-22 08:48:00,042 - INFO - Starting transcript retrieval for NVDA
+2025-07-22 08:48:00,042 - INFO - Fetching transcript links for NVDA
+2025-07-22 08:48:00,903 - INFO - Found 38 items using title-based search
+2025-07-22 08:48:00,905 - INFO - Found 4 valid transcript links
+2025-07-22 08:48:00,906 - INFO - Processing 4 transcripts
+2025-07-22 08:48:00,906 - INFO - Processing transcript 1/4: NVIDIA Corporation (NVDA) Presents at Rosenblatt's 5th Annual Technology Summit - The Age of AI 2025 Conference Transcript
+2025-07-22 08:48:00,907 - INFO - Parsing transcript: https://seekingalpha.com/article/4793889-nvidia-corporation-nvda-presents-at-rosenblatts-5th-annual-technology-summit-the-age-of-ai#source=section%3Atranscripts_and_insights%7Csection_asset%3Afull_transcripts%7Cfirst_level_url%3Asymbol%7Cbutton%3ANVIDIA%20Corporation%20(NVDA)%20Presents%20at%20Rosenblatt's%205th%20Annual%20Technology%20Summit%20-%20The%20Age%20of%20AI%202025%20Conference%20Transcript%7Clock_status%3ANo%7Cline%3A1
+2025-07-22 08:48:03,324 - ERROR - Could not find content container
+2025-07-22 08:48:03,326 - INFO - Data saved to NVDA_transcripts_partial.json
+2025-07-22 08:48:03,327 - INFO - Processing transcript 2/4: NVIDIA Corporation (NVDA) Presents at 2025 NASDAQ Investor Conference Transcript
+2025-07-22 08:48:03,327 - INFO - Parsing transcript: https://seekingalpha.com/article/4793673-nvidia-corporation-nvda-presents-at-2025-nasdaq-investor-conference-transcript#source=section%3Atranscripts_and_insights%7Csection_asset%3Afull_transcripts%7Cfirst_level_url%3Asymbol%7Cbutton%3ANVIDIA%20Corporation%20(NVDA)%20Presents%20at%202025%20NASDAQ%20Investor%20Conference%20Transcript%7Clock_status%3ANo%7Cline%3A2
+2025-07-22 08:48:06,025 - ERROR - Could not find content container
+2025-07-22 08:48:06,027 - INFO - Data saved to NVDA_transcripts_partial.json
+2025-07-22 08:48:06,027 - INFO - Processing transcript 3/4: NVIDIA Corporation (NVDA) Presents at Bank of America Global Technology Conference Transcript
+2025-07-22 08:48:06,028 - INFO - Parsing transcript: https://seekingalpha.com/article/4792446-nvidia-corporation-nvda-presents-at-bank-of-america-global-technology-conference-transcript#source=section%3Atranscripts_and_insights%7Csection_asset%3Afull_transcripts%7Cfirst_level_url%3Asymbol%7Cbutton%3ANVIDIA%20Corporation%20(NVDA)%20Presents%20at%20Bank%20of%20America%20Global%20Technology%20Conference%20Transcript%7Clock_status%3ANo%7Cline%3A3
+2025-07-22 08:48:09,800 - ERROR - Could not find content container
+2025-07-22 08:48:09,803 - INFO - Data saved to NVDA_transcripts_partial.json
+2025-07-22 08:48:09,803 - INFO - Processing transcript 4/4: NVIDIA Corporation (NVDA) Q1 2026 Earnings Call Transcript
+2025-07-22 08:48:09,803 - INFO - Parsing transcript: https://seekingalpha.com/article/4790673-nvidia-corporation-nvda-q1-2026-earnings-call-transcript#source=section%3Atranscripts_and_insights%7Csection_asset%3Afull_transcripts%7Cfirst_level_url%3Asymbol%7Cbutton%3ANVIDIA%20Corporation%20(NVDA)%20Q1%202026%20Earnings%20Call%20Transcript%7Clock_status%3ANo%7Cline%3A4
+2025-07-22 08:48:13,598 - ERROR - Could not find content container
+2025-07-22 08:48:13,600 - INFO - Data saved to NVDA_transcripts_partial.json
+2025-07-22 08:55:44,690 - INFO - Starting transcript retrieval for NVDA
+2025-07-22 08:55:44,690 - INFO - Fetching transcript links for NVDA
+2025-07-22 08:55:45,669 - INFO - Found 11 items using title-based search
+2025-07-22 08:55:45,671 - INFO - Added transcript: NVIDIA Corporation (NVDA) Q1 2026 Earnings Call Transcript
+2025-07-22 08:55:45,672 - INFO - Added transcript: NVIDIA Corporation (NVDA) Q4 2025 Earnings Call Transcript
+2025-07-22 08:55:45,674 - INFO - Added transcript: NVIDIA Corporation (NVDA) Q3 2025 Earnings Call Transcript
+2025-07-22 08:55:45,675 - INFO - Added transcript: NVIDIA Corporation (NVDA) Q2 2025 Earnings Call Transcript
+2025-07-22 08:55:45,675 - INFO - Found 4 valid transcript links
+2025-07-22 08:55:45,676 - INFO - Processing 4 transcripts
+2025-07-22 08:55:45,676 - INFO - Processing transcript 1/4: NVIDIA Corporation (NVDA) Q1 2026 Earnings Call Transcript
+2025-07-22 08:55:45,677 - INFO - Parsing transcript: https://seekingalpha.com/article/4790673-nvidia-corporation-nvda-q1-2026-earnings-call-transcript#source=section%3Atranscripts_and_insights%7Csection_asset%3Afull_transcripts%7Cfirst_level_url%3Asymbol%7Cbutton%3ANVIDIA%20Corporation%20(NVDA)%20Q1%202026%20Earnings%20Call%20Transcript%7Clock_status%3ANo%7Cline%3A4
+2025-07-22 08:55:49,771 - ERROR - Paywall detected
+2025-07-22 08:55:49,772 - WARNING - Skipping NVIDIA Corporation (NVDA) Q1 2026 Earnings Call Transcript due to empty content
+2025-07-22 08:55:49,772 - INFO - Processing transcript 2/4: NVIDIA Corporation (NVDA) Q4 2025 Earnings Call Transcript
+2025-07-22 08:55:49,773 - INFO - Parsing transcript: https://seekingalpha.com/article/4762511-nvidia-corporation-nvda-q4-2025-earnings-call-transcript#source=section%3Atranscripts_and_insights%7Csection_asset%3Afull_transcripts%7Cfirst_level_url%3Asymbol%7Cbutton%3ANVIDIA%20Corporation%20(NVDA)%20Q4%202025%20Earnings%20Call%20Transcript%7Clock_status%3ANo%7Cline%3A7
+2025-07-22 08:55:53,500 - ERROR - Paywall detected
+2025-07-22 08:55:53,501 - WARNING - Skipping NVIDIA Corporation (NVDA) Q4 2025 Earnings Call Transcript due to empty content
+2025-07-22 08:55:53,502 - INFO - Processing transcript 3/4: NVIDIA Corporation (NVDA) Q3 2025 Earnings Call Transcript
+2025-07-22 08:55:53,502 - INFO - Parsing transcript: https://seekingalpha.com/article/4739171-nvidia-corporation-nvda-q3-2025-earnings-call-transcript#source=section%3Atranscripts_and_insights%7Csection_asset%3Afull_transcripts%7Cfirst_level_url%3Asymbol%7Cbutton%3ANVIDIA%20Corporation%20(NVDA)%20Q3%202025%20Earnings%20Call%20Transcript%7Clock_status%3ANo%7Cline%3A10
+2025-07-22 08:55:57,705 - ERROR - Paywall detected
+2025-07-22 08:55:57,706 - WARNING - Skipping NVIDIA Corporation (NVDA) Q3 2025 Earnings Call Transcript due to empty content
+2025-07-22 08:55:57,706 - INFO - Processing transcript 4/4: NVIDIA Corporation (NVDA) Q2 2025 Earnings Call Transcript
+2025-07-22 08:55:57,706 - INFO - Parsing transcript: https://seekingalpha.com/article/4717764-nvidia-corporation-nvda-q2-2025-earnings-call-transcript#source=section%3Atranscripts_and_insights%7Csection_asset%3Afull_transcripts%7Cfirst_level_url%3Asymbol%7Cbutton%3ANVIDIA%20Corporation%20(NVDA)%20Q2%202025%20Earnings%20Call%20Transcript%7Clock_status%3ANo%7Cline%3A12
+2025-07-22 08:56:01,635 - ERROR - Paywall detected
+2025-07-22 08:56:01,636 - WARNING - Skipping NVIDIA Corporation (NVDA) Q2 2025 Earnings Call Transcript due to empty content
+2025-07-22 08:56:01,637 - INFO - Collected 0 transcripts
+2025-07-22 08:58:34,419 - INFO - Starting transcript retrieval for NVDA
+2025-07-22 08:58:34,420 - INFO - Fetching transcript links for NVDA
+2025-07-22 08:58:35,205 - INFO - Found 11 items using title-based search
+2025-07-22 08:58:35,206 - INFO - Added transcript: NVIDIA Corporation (NVDA) Q1 2026 Earnings Call Transcript
+2025-07-22 08:58:35,207 - INFO - Added transcript: NVIDIA Corporation (NVDA) Q4 2025 Earnings Call Transcript
+2025-07-22 08:58:35,208 - INFO - Added transcript: NVIDIA Corporation (NVDA) Q3 2025 Earnings Call Transcript
+2025-07-22 08:58:35,209 - INFO - Added transcript: NVIDIA Corporation (NVDA) Q2 2025 Earnings Call Transcript
+2025-07-22 08:58:35,209 - INFO - Found 4 valid transcript links
+2025-07-22 08:58:35,210 - INFO - Processing 4 transcripts
+2025-07-22 08:58:35,210 - INFO - Processing transcript 1/4: NVIDIA Corporation (NVDA) Q1 2026 Earnings Call Transcript
+2025-07-22 08:58:35,211 - INFO - Parsing transcript: https://seekingalpha.com/article/4790673-nvidia-corporation-nvda-q1-2026-earnings-call-transcript#source=section%3Atranscripts_and_insights%7Csection_asset%3Afull_transcripts%7Cfirst_level_url%3Asymbol%7Cbutton%3ANVIDIA%20Corporation%20(NVDA)%20Q1%202026%20Earnings%20Call%20Transcript%7Clock_status%3ANo%7Cline%3A4
+2025-07-22 08:58:39,100 - ERROR - Paywall detected
+2025-07-22 08:58:39,101 - WARNING - Skipping NVIDIA Corporation (NVDA) Q1 2026 Earnings Call Transcript due to empty content
+2025-07-22 08:58:39,102 - INFO - Processing transcript 2/4: NVIDIA Corporation (NVDA) Q4 2025 Earnings Call Transcript
+2025-07-22 08:58:39,102 - INFO - Parsing transcript: https://seekingalpha.com/article/4762511-nvidia-corporation-nvda-q4-2025-earnings-call-transcript#source=section%3Atranscripts_and_insights%7Csection_asset%3Afull_transcripts%7Cfirst_level_url%3Asymbol%7Cbutton%3ANVIDIA%20Corporation%20(NVDA)%20Q4%202025%20Earnings%20Call%20Transcript%7Clock_status%3ANo%7Cline%3A7
+2025-07-22 08:58:41,990 - ERROR - Paywall detected
+2025-07-22 08:58:41,991 - WARNING - Skipping NVIDIA Corporation (NVDA) Q4 2025 Earnings Call Transcript due to empty content
+2025-07-22 08:58:41,991 - INFO - Processing transcript 3/4: NVIDIA Corporation (NVDA) Q3 2025 Earnings Call Transcript
+2025-07-22 08:58:41,991 - INFO - Parsing transcript: https://seekingalpha.com/article/4739171-nvidia-corporation-nvda-q3-2025-earnings-call-transcript#source=section%3Atranscripts_and_insights%7Csection_asset%3Afull_transcripts%7Cfirst_level_url%3Asymbol%7Cbutton%3ANVIDIA%20Corporation%20(NVDA)%20Q3%202025%20Earnings%20Call%20Transcript%7Clock_status%3ANo%7Cline%3A10
+2025-07-22 08:58:45,864 - ERROR - Paywall detected
+2025-07-22 08:58:45,865 - WARNING - Skipping NVIDIA Corporation (NVDA) Q3 2025 Earnings Call Transcript due to empty content
+2025-07-22 08:58:45,866 - INFO - Processing transcript 4/4: NVIDIA Corporation (NVDA) Q2 2025 Earnings Call Transcript
+2025-07-22 08:58:45,866 - INFO - Parsing transcript: https://seekingalpha.com/article/4717764-nvidia-corporation-nvda-q2-2025-earnings-call-transcript#source=section%3Atranscripts_and_insights%7Csection_asset%3Afull_transcripts%7Cfirst_level_url%3Asymbol%7Cbutton%3ANVIDIA%20Corporation%20(NVDA)%20Q2%202025%20Earnings%20Call%20Transcript%7Clock_status%3ANo%7Cline%3A12
+2025-07-22 08:58:49,548 - ERROR - Paywall detected
+2025-07-22 08:58:49,549 - WARNING - Skipping NVIDIA Corporation (NVDA) Q2 2025 Earnings Call Transcript due to empty content
+2025-07-22 08:58:49,549 - INFO - Collected 0 transcripts

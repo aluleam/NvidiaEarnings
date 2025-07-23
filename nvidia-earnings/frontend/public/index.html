@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#76b900" />
+    <meta
+      name="description"
+      content="AI-powered analysis of NVIDIA earnings call transcripts"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <title>NVIDIA Earnings Insights</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+          },
+          extend: {
+            colors: {
+              primary: '#0078d4',
+              secondary: '#6c757d',
+              success: '#28a745',
+              warning: '#ffc107',
+              danger: '#dc3545',
+              nvidia: '#76b900',
+              muted: '#f8fafc',
+            },
+          },
+        },
+      };
+    </script>
+
+    <style>
+      body {
+        @apply bg-muted text-gray-800 antialiased;
+      }
+
+      .nvidia-gradient {
+        background: linear-gradient(135deg, #76b900 0%, #0078d4 100%);
+      }
+
+      .fade-in {
+        animation: fadeIn 1s ease-out forwards;
+      }
+
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: scale(0.98);
+        }
+        to {
+          opacity: 1;
+          transform: scale(1);
+        }
+      }
+    </style>
+  </head>
+  <body class="font-sans bg-muted">
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+
+    <div id="root" class="fade-in"></div>
+
+    <div id="loading-overlay" class="fixed inset-0 flex items-center justify-center bg-white z-50">
+      <div class="text-center">
+        <div class="animate-spin rounded-full h-16 w-16 border-t-4 border-b-4 border-nvidia mx-auto"></div>
+        <p class="mt-4 text-lg font-medium text-gray-700">Loading NVIDIA Earnings Analysis...</p>
+      </div>
+    </div>
+
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const root = document.getElementById('root');
+        const overlay = document.getElementById('loading-overlay');
+        const observer = new MutationObserver(() => {
+          if (root.children.length > 0) {
+            overlay.style.display = 'none';
+            observer.disconnect();
+          }
+        });
+        observer.observe(root, { childList: true });
+      });
+    </script>
+  </body>
+</html>
